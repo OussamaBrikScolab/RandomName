@@ -1,0 +1,7 @@
+.namelist span:hover{
+  cursor:pointer;
+  text-decoration:line-through
+}
+.namelist span{
+  display:block;
+}
